@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/samuel-olawuyi-03a256179](www.linkedin.com/in/samuel-olawuyi-03a256179)
 
-- 💬 Ask me about **Frontend and core java**
+- 💬 Ask me about **Robust and efficient web application using Java technologies as well as frontend**
 
 - 📫 How to reach me **officialolawuyisam@gmail.com**
 
-- ⚡ Fun fact **I allow for growth once the willingness is obvious.**
+- ⚡ Fun fact **I love to make people smile.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
