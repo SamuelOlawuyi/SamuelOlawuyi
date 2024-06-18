@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+<!-- - 🌱 I’m currently learning **Java** -->
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/samuel-olawuyi-03a256179](www.linkedin.com/in/samuel-olawuyi-03a256179)
 
